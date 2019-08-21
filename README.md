@@ -1,2 +1,0 @@
-# TwitchAPI
-Created with CodeSandbox
